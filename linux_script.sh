@@ -2,4 +2,6 @@
 
 echo $SHELL
 echo "this is shelll scripting in bash"
-echo $PATH  
+echo $PATH 
+echo "This is Redhat linux"
+ 
